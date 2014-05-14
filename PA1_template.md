@@ -110,7 +110,7 @@ hist(sumStepNew$steps, col = "red", main = "Total number of steps taken each day
     xlab = "Total Number of Steps")
 ```
 
-![plot of chunk part 4](figure/part_4.png) 
+![plot of chunk part 4](figure/part4.png) 
 
 ```r
 
